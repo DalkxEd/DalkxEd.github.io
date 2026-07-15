@@ -1,0 +1,6 @@
+Throughout this assignment, I have learnt a lot about html/webdev. 
+I learnt that designing a web page is different then making/programming a web page with the use of CSS (cascading style sheet). I learnt the importance of responsive web dev, which allows web pages to be viewed nicely whether it be on the desktop, phone or tablet. 
+I learnt about the different layouts of a web page, like the holy grail layout which is the most popular type of layout as well as design choices, whether it using flex, block or inline blocks.
+I learnt how to link websites using <a href> and making it open in a new tab using target="_blank" as well as images using <img src">. I also learnt how to link my css sheets with the website with <link href>
+
+some challenges I have faced along the was trying to design my webpage where the images are aligned or visually looked nice or trying to re structure the webpage for responsive web dev.
