@@ -5,6 +5,10 @@ const page3btn=document.querySelector("#page3btn");
 const mainmenubtn=document.querySelector("#mainmenubtn");
 const pg2change=document.querySelector("#pg2swap");
 var allpages=document.querySelectorAll(".page");
+
+//Unblur img thing
+
+
 //select all subtopic pages
 function hideall(){ //function to hide all pages
   for(let onepage of allpages){ //go through all subtopic pages
@@ -19,6 +23,7 @@ function show(pgno){ //function to show selected page no
 }
 /*Listen for clicks on the buttons, assign anonymous
 eventhandler functions to call show function*/
+
 page1btn.addEventListener("click", function () { 
   show(1); 
 });
@@ -35,8 +40,6 @@ pg2swap.addEventListener("click", function () {
   show(2); 
 });
 hideall();
-
-
 
 /*JS for hamMenu */
 const hamBtn=document.querySelector("#hamIcon");
